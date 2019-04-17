@@ -3,3 +3,5 @@ It is a multi-player fighting game.There are two characters,each having their ow
 We used total 7 header files and used those for different aspects.
 
 All characters were collected from google.
+
+Software requirement: Microsoft Visual Studio 2010 Ultimate
